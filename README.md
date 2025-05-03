@@ -1,1 +1,4 @@
 # Text_Based_RPG
+The problem is to create a game using Object Oriented Programming, with the theme of role playing game. This is a rogue like RPG game, where the character will face off against randomly generated foes, and the goal is to survive as long as possible. The game features main character (the user) with visible health bar, attack damage that taken from the weapon given to the user, and vice versa for the foes. In addition, the main mechanism of attacking is rolling the dice, which the user and the foe will roll the dice and multiply their attack damages. The game user's interface includes an opening sequence where user can input their name, statistics screen that shows attributes of the user and the foe, fighting sequence, and ending sequence. This also output a txt file that saves user's game's score.
+*Run both files cps109_a1.py and Enemy.py
+*All files must be in the same directory
